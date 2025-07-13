@@ -10,7 +10,7 @@ A simple 2-player Tic Tac Toe Android app built with Java.
 
 ## Screenshots
 <img width="266" height="564" alt="image" src="https://github.com/user-attachments/assets/b88f3518-c7c0-42c9-9cc0-2e899cdb1175" />
-<img width="1178" height="2498" alt="Screenshot1" src="https://github.com/user-attachments/assets/6601d9e0-e69c-4321-9fee-3c1d6848f00a" />
+<img width="266" height="564" alt="Screenshot1" src="https://github.com/user-attachments/assets/6601d9e0-e69c-4321-9fee-3c1d6848f00a" />
 
 ## Built With
 - Java
