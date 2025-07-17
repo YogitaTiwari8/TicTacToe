@@ -9,8 +9,11 @@ A simple 2-player Tic Tac Toe Android app built with Java.
 - Reset game after each round
 
 ## Screenshots
-<img width="266" height="564" alt="image" src="https://github.com/user-attachments/assets/b88f3518-c7c0-42c9-9cc0-2e899cdb1175" />
-<img width="266" height="564" alt="Screenshot1" src="https://github.com/user-attachments/assets/6601d9e0-e69c-4321-9fee-3c1d6848f00a" />
+![WhatsApp Image 2025-07-17 at 22 14 54_c597d612](https://github.com/user-attachments/assets/0fff22d7-a821-49a3-805c-bad2a1d38ca5)
+![WhatsApp Image 2025-07-17 at 22 14 54_389a59b7](https://github.com/user-attachments/assets/4d791619-4bc0-4c7f-903d-04534938f8ce)
+![WhatsApp Image 2025-07-17 at 22 14 54_6a1c3e6c](https://github.com/user-attachments/assets/c585045b-df83-4cd2-b501-cc7081087036)
+![WhatsApp Image 2025-07-17 at 22 14 55_1ee59fac](https://github.com/user-attachments/assets/eeb7aee4-6d6c-4c00-bfe8-e01feebe2172)
+
 
 ## Built With
 - Java
