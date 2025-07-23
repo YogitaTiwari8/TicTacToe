@@ -1,4 +1,4 @@
-# Tic Tac Toe - Tom & Jerry 🐭🐱
+# Tom vs Jerry- Tic Tac Tussle 🐭🐱
 
 A simple 2-player Tic Tac Toe Android app built with Java.
 
