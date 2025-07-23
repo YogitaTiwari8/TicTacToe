@@ -8,11 +8,8 @@ A simple 2-player Tic Tac Toe Android app built with Java.
 - Toast messages and UI updates
 - Reset game after each round
 
-## Screenshots
-<img src="https://github.com/user-attachments/assets/afde8236-deb5-471f-ac1d-abbac4340e33" width="400" height="900"/>
-<img src="https://github.com/user-attachments/assets/60466c0e-c87a-4508-89d5-5658b49fe1b5" width="400"  height="900"/>
-<img src="https://github.com/user-attachments/assets/09bd2abe-6aa9-4e19-9b88-44954b644960" width="400"  height="900"/>
-<img src="https://github.com/user-attachments/assets/9c67e16e-146f-4416-b660-3a845c5c5095" width="400"  height="900"/>
+## Install Now
+https://drive.google.com/file/d/1_frE49TxdDkeLttQKsuOPWU8Nh1RO5R9/view?usp=drive_link
 
 ## Built With
 - Java
